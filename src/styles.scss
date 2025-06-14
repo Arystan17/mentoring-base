@@ -197,7 +197,7 @@
   [type="button"],
   [type="reset"],
   [type="submit"] {
-    -webkit-appearance: button;
+   -webkit-appearance: button;
   }
   
   /**
@@ -348,3 +348,8 @@
   [hidden] {
     display: none;
   }
+
+.header,
+.bottom-header {
+  font-family: 'Inter', sans-serif;
+}
